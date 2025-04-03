@@ -65,7 +65,7 @@ gcc file_copier.c -o copy
 # linux下使用示例
 # 编译
 gcc simple_editor.c -o edit -lncurses
-# 执行
+# 执行(后面加上文件名称，如：1.txt)
 ./edit file
 # 可以在终端输入字母、数字及符号（暂且不支持中文输入），按Esc退出保存
 ```

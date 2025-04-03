@@ -98,3 +98,5 @@ gcc simple_editor.c -o edit -lncurses
 
 邮箱: 3257136093@qq.com 
 博客: [个人技术博客](https://blog.csdn.net/m0_64657422?spm=1010.2135.3001.10640)
+
+此仓库会不断更新

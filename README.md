@@ -64,7 +64,7 @@ gcc file_copier.c -o copy
 ```bash
 # linux下使用示例
 # 编译
-gcc simple_editor.c -o edit
+gcc simple_editor.c -o edit -lncurses
 # 执行
 ./edit file
 # 可以在终端输入字母、数字及符号（暂且不支持中文输入），按Esc退出保存
